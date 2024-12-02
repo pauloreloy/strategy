@@ -1,0 +1,16 @@
+{
+    "CodContrtoOr": "codigo_contrato_original",
+    "CodContrtoSCR": "codigo_contrato_scr",
+    "IPOC": "identificador_padronizado_operacoes_credito",
+    "Ind_MultIPOC": "indicador_mais_de_um_ipoc_por_contrato",
+    "CNPJBase_IFOrContrto": "cnpj_base_if_credora_original_contrato",
+    "TpEnteCons": "tipo_ente_consignante",
+    "DtContrOp": "data_contratacao_operacao",
+    "DtLibNovoRec": "data_liberacao_novo_recurso",
+    "DtRefSaldDevdrContb": "data_referencia_saldo_devedor_contabil",
+    "VlrSaldDevdrContb": "valor_saldo_devedor_contabil",
+    "Grupo_ACTC103_ParclNorml": "grupo_parcela_normal",
+    "Grupo_ACTC103_ParclIrreg": "grupo_parcela_irregular",
+    "VlrFaceParclContrto": "valor_face_parcela",
+    "DtPrimParclContrtoVencr": "data_primeira_parcela"   
+}
